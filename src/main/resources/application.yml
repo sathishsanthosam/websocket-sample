@@ -1,0 +1,12 @@
+spring:
+  cloud:
+      discovery:
+        enabled: false
+
+server:
+  port: 8092
+  
+logging:
+  level:
+    ROOT: DEBUG
+    
